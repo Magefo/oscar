@@ -1,0 +1,10 @@
+.titulo {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+
+.carrito {
+    width: 40%;
+    height: 50%;
+}
